@@ -1,0 +1,18 @@
+Correction form / Lucas 040423
+
+<form action="#" method="get">
+        <label for="fname">First name :<br>
+            <!-- L'input permet de définir ce que l'on peut mettre. Le name permet d'enregistrer l'info,
+                 l'id permet de cibler pour le CSS, le placeholder permet de mettre en 
+                 transparant son contenu -->
+        </label>
+        <input type="text" name="fname" id="fname" value="" placeholder="">
+        <input type="number">
+        <input type="password">
+        <input type="email" placeholder="mail">
+        <input type="checkbox" value="Poire">Poire</input>
+        <input type="checkbox" value="Pomme">Pomme</input>
+        <input type="radio" value="Homme" name="Genre">Homme</input>
+        <input type="radio" value="Femme" name="Genre">Femme</input>
+        <input type="submit" value="Envoyer">
+        <input type="button" value="Bibou">

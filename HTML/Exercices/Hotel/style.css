@@ -1,0 +1,23 @@
+h1{
+    color:black;
+    text-align: left;
+    text-decoration: underline;
+}
+
+h3{
+    text-align: left;
+    color: red;
+    font-style: italic;
+}
+
+#formulaire {
+    text-align: left;
+}
+
+body{
+    background-image: url("./img/degrade.jpg");
+    background-size: cover;
+    font-style: normal;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
